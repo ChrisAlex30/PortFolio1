@@ -111,6 +111,7 @@ nav{
     height: 400px;
     width: 400px;  
     transition: all 0.3s ease-in-out;
+    object-fit: cover;
 
 }
 .hero-img img:hover{
